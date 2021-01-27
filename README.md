@@ -1,5 +1,6 @@
 # lazy-googler
 I made this because I was tired of behaving like a normal human being and Googling stuff with a keyboard.
+
 Python 3.6
 
 ![image](extras/image_2021-01-26_182105.png)
