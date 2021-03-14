@@ -1,5 +1,6 @@
 # lazy-googler
 I made this because I was tired of behaving like a normal human being and Googling stuff with a keyboard.
+
 It's probably the laziest thing I've ever done too, in terms of effort. But hey, I had fun with it.
 
 Tested on Python 3.6.
